@@ -3,6 +3,7 @@ venv
 key.txt
 key.txt.pub
 Notas.txt
+DjangoComandos.txt
 
 #Django
 *.log
@@ -13,7 +14,7 @@ db.slite3
 media
 
 #Backup files
-*.
+*.bak
 
 # AWS User-specific
 .idea/**/aws.xml
